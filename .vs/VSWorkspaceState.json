@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib",
+    "\\lib\\img"
   ],
-  "SelectedNode": "\\C:\\Users\\chri615w\\Source\\Repos\\chess-js",
+  "SelectedNode": "\\lib\\img",
   "PreviewInSolutionExplorer": false
 }
